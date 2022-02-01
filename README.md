@@ -5,7 +5,6 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
-<div align="center">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
@@ -19,6 +18,8 @@
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Pool , Playing games.
 - 📫 How to reach me: issam.elmakhfi@gmail.com
 
+<div align="center">
+  
 <i>Happy Coding!</i> 😊
 
 </div>
