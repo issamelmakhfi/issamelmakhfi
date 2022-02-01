@@ -40,7 +40,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 or [![Gmail Badge](https://img.shields.io/badge/-issam.elmakhfi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:issam.elmakhfi@gmail.com)](mailto:issam.elmakhfi@gmail.com)
 
 <b align="center">
-❤️ Connect with me : </b>[![Linkedin Badge](https://img.shields.io/badge/-Issam_Elmakhfi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/issam-elmakhfi)](https://www.linkedin.com/in/issam-elmakhfi)
+❤️ Connect with me : </b> [![Linkedin Badge](https://img.shields.io/badge/-Issam_Elmakhfi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/issam-elmakhfi)](https://www.linkedin.com/in/issam-elmakhfi)
 
 <!--
 **ENDERMAN/issamelmakhfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
