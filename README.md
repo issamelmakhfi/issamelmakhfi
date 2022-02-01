@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Issam+ELMAKHFI;Programmer;Web+Designer;Tech-savvy+person+from+Mororroco)](https://git.io/typing-svg)
 
 <i align="center">
-I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML   and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML   and CSS   (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C and Python because they challenge me more. I love it when I can finally solve a difficult problem.
  </i>
 
 <p align="center">
