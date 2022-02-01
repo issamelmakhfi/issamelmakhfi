@@ -41,8 +41,8 @@ or [![Gmail Badge](https://img.shields.io/badge/-issam.elmakhfi@gmail.com-c14438
 
 
 ### ❤️ Connect with me
-<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Issam_Elmakhfi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/issam-elmakhfi)](https://www.linkedin.com/in/issam-elmakhfi)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Issam_Elmakhfi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/issam-elmakhfi-a842871b4/)](https://www.linkedin.com/in/issam-elmakhfi-a842871b4/)
 
 <!--
 **ENDERMAN/issamelmakhfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
