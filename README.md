@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Issam+ELMAKHFI;Programmer;Web+Designer;Tech-savvy+person+from+Mororroco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Issam+ELMAKHFI;Programmer;Web+Designer;Tech-savvy+person+from+Morocco)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
@@ -12,7 +12,7 @@ I'm a 1337 student who lives in Morocco. I'm learning how to code. I love making
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently just learner.
+- 👨🏽‍💻 I’m currently just a learner.
 - 🌱 I’m currently learning JavaScript and Flutter.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to C, HTML, CSS.(After googling it 😜😌)
