@@ -7,9 +7,17 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Mail me here <a href="mailto:issam.elmakhfi@gmail.com"><b>mail</b></a><br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  
+### ✨ Quick Facts
+
+- 👨🏽‍💻 I’m currently just learner.
+- 🌱 I’m currently learning JavaScript and Flutter.
+<!--- 🤔 I’m looking for help for my future MERN projects.-->
+- 💬 Ask me about anything related to C, HTML, CSS.(After googling it 😜😌)
+<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Pool , Playing games.
+- 📫 How to reach me: issam.elmakhfi@gmail.com
 
 <i>Happy Coding!</i> 😊
 
