@@ -14,7 +14,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="mailto:issam.elmakhfi@gmail.com"><b>here</b></a><br>
+Mail me here <a href="mailto:issam.elmakhfi@gmail.com"><b>mail</b></a><br>
 
 <i>Happy Coding!</i> 😊
 
