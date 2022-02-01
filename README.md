@@ -19,6 +19,7 @@ I'm a student at 1337, who lives in Morocco. I love making and designing webpage
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Pool , Playing games.
 - 📫 How to reach me: issam.elmakhfi@gmail.com
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
 <div align="center">
 
