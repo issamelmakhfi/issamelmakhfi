@@ -1,7 +1,7 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ielmakhf)](https://github.com/mohouyizme/1337-readme)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Issam+ELMAKHFI;Programmer;Web+Designer;Tech-savvy+person+from+Mororroco)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
