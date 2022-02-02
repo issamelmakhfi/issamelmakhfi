@@ -2,9 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Issam+ELMAKHFI;Programmer;Web+Designer;Tech-savvy+person+from+Morocco)](https://git.io/typing-svg)
 
 ![Banner](https://blogger.googleusercontent.com/img/a/AVvXsEhMXgx-VGdLvSTeH0WuPHYvsRVVhCwpcbOJlGx7_5OGATCky1MnJEKLiBplhLKk4bkPftH030ZRSV6qQ-F_Hr316opyNTnIoiQ9V4wn_g07a57kpYKCz3VDZuzd0vGvF0jqCcnun_2LLqhga3JfURcnMqmYC2ocsvdlF8renewy6FAbt7xlRek7ghcJ=s1012)
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
+
 
 <div align="center">
 I'm a student at 1337, who lives in Morocco. I love making and designing webpages with HTML   and CSS  and  JavaScript.  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C and Python because they challenge me more. I love it when I can finally solve a difficult problem.
