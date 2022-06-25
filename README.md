@@ -30,8 +30,7 @@ I'm a student at 1337, who lives in Morocco. I love making and designing webpage
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<script src="https://tryhackme.com/badge/782138"></script>
 
 
 ### 👣 Next Steps
