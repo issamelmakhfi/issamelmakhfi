@@ -30,7 +30,7 @@ I'm a student at 1337, who lives in Morocco. I love making and designing webpage
 
 </br>
 </br>
-<script src="https://tryhackme.com/badge/782138"></script>
+![tryhackme stats](https://raw.githubusercontent.com/<chelby>/<chelby>/master/assets/thm_propic.png)
 
 
 ### 👣 Next Steps
