@@ -30,7 +30,14 @@ I'm a student at 1337, who lives in Morocco. I love making and designing webpage
 
 </br>
 </br>
-![tryhackme stats](https://raw.githubusercontent.com/<chelby>/<chelby>/master/assets/thm_propic.png)
+### 42 Profile
+
+<!--
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=ybouddou)](https://github.com/mohouyizme/1337-readme)
+-->
+[![Conanyedo's 42 stats](https://badge.mediaplus.ma/darkblue/ielmakhf)](https://github.com/oakoudad/badge42)
+-----
+Credits: [ISSAM ELMAKHFI](https://github.com/issamelmakhfi)
 
 
 ### 👣 Next Steps
@@ -59,14 +66,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 42 Profile
 
-<!--
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=ybouddou)](https://github.com/mohouyizme/1337-readme)
--->
-[![Conanyedo's 42 stats](https://badge.mediaplus.ma/darkblue/ielmakhf)](https://github.com/oakoudad/badge42)
------
-Credits: [ISSAM ELMAKHFI](https://github.com/issamelmakhfi)
 
 
 Last Edited on: 01/02/2022
