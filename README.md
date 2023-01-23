@@ -5,7 +5,7 @@
 
 
 <div align="center">
-I'm a student at 1337, who lives in Morocco. I love making and designing webpages with HTML   and CSS  and  JavaScript.  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C and Python because they challenge me more. I love it when I can finally solve a difficult problem.
+I am a cyber security analyst and a student at 1337. I reside in Morocco and have a passion for coding and web development. I enjoy using languages such as JavaScript, C, Python, PHP and C++ to create and design websites. The satisfaction of solving a difficult problem and being able to share it with the world through the web is what drives me to continue learning and growing in the field..
  </div>
 
   
